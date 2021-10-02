@@ -1,3 +1,5 @@
 /modulos/nativos/build/
 
 /paquetes/npm/node_modules
+
+/paquetes/utiles/node_modules
